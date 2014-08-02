@@ -2038,10 +2038,12 @@
  		<Key ID="STR_NOTF_Gather_Success">
 			<Original>You have gathered %2 %1(s)</Original>
 			<English>You have gathered %2 %1(s)</English>
+			<German>Du hast %2 %1 gesammelt</German>
 		</Key>
 		<Key ID="STR_NOTF_GatherVeh">
 			<Original>You can't gather from inside a car!</Original>
 			<English>You can't gather from inside a car!</English>
+			<German>Du kannst nicht aus dem Fahrzeug heraus sammeln!</German>
 		</Key>
 	</Package>
 	<Package name="Jail_Strings">
